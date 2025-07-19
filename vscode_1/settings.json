@@ -1,0 +1,131 @@
+{
+  "window.zoomLevel": 1,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.colorCustomizations": {
+    "editorSuggestWidget.selectedBackground": "#231739",
+    "sideBar.background": "#191521",
+    "list.activeSelectionBackground": "#231739",
+    "list.inactiveSelectionBackground": "#231739",
+    "list.focusBackground": "#231739",
+    "list.hoverBackground": "#231739",
+    "terminalCursor.foreground": "#C45DFF"
+  },
+  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.autohide": true,
+  "editor.minimap.size": "fill",
+  "editor.guides.indentation": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "none",
+  "editor.matchBrackets": "never",
+  "editor.lightbulb.enabled": "off",
+  "editor.hover.enabled": false,
+  "editor.showFoldingControls": "never",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "'Dank Mono' , 'Fira Code'",
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 2,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.fontFamily": "Dank Mono, JetBrainsMono Nerd Font",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native",
+  "custom-ui-style.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 20,
+      "y": 16
+    }
+  },
+  "custom-ui-style.stylesheet": {
+    ".notification-toast": "box-shadow : none !important",
+    ".quick-input-widget.show-file-icons": "box-shadow : none !important",
+    ".quick-input-list .scrollbar": "display : none",
+    ".monaco-action-bar.quick-input-inline-action-bar": "display : none",
+    ".editor-widget.find-widget": "box-shadow : none; border-radius : 4px",
+    ".quick-input-titlebar": "background : #100B15 !important",
+    ".monaco-workbench .part.editor > .content .editor-group-container > .title.title-border-bottom:after": "display : none",
+    ".monaco-scrollable-element > .shadow.top": "display : none",
+    ".sidebar .title-label": "padding : 0 !important",
+    ".sidebar": "border : none",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline : none !important",
+    ".monaco-list-row.focused": "outline : none !important",
+    ".monaco-editor .scroll-decoration": "display : none !important",
+    ".title-actions": "display: none !important",
+    ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "justify-content: center",
+    ".title .monaco-icon-label:after": "margin-right : 0",
+    ".monaco-workbench .part.editor > .content .editor-group-container > .title > .label-container > .title-label": "padding-left : 60px"
+  },
+  "custom-ui-style.font.sansSerif": "'Dank Mono', 'Fira Code'",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset"
+  },
+  "apc.font.family": "'Dank Mono' , 'Fira Code'",
+  "apc.listRow": {
+    "lists": ["explorer-folders-view", "quick-input-list", "results"],
+    "height": 30
+  },
+  "apc.stylesheet": {
+    ".title-actions": "display: none !important",
+    ".quick-input-widget.show-file-icons, .editor-widget.find-widget": "box-shadow: none !important",
+    ".filematch .monaco-icon-label:before, .custom-list-row.results .monaco-list-row .monaco-icon-label:before": "background-position: 0 bottom !important",
+    ".filematch .monaco-count-badge": "padding: 5px 6px 0 6px !important",
+    ".sidebar .title-label": "padding: 0 !important",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    ".sidebar": "border: none !important",
+    ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #67D0FF 10%, #C45DFF 100%)",
+    ".quick-input-list-row div": "display: flex !important; align-items: center !important",
+    ".panel .composite.title": "visibility: hidden !important",
+    ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "padding-bottom: 6px !important",
+    ".sidebar .title-label h2": "line-height: 2.8 !important",
+    ".monaco-editor .scroll-decoration": "display: none !important",
+    ".monaco-scrollable-element > .shadow.top": "display: none !important",
+    ".monaco-split-view2 > .monaco-scrollable-element > .split-view-container": "background: #191521 !important"
+  },
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file:///Users/igorbabko/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "workbench.activityBar.location": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.accessibilitySupport": "on",
+  "workbench.colorTheme": "Aura Dracula Spirit (Synthwave)",
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tailwind-fold.autoFold": true,
+  "cSpell.checkVSCodeSystemFiles": true
+}
